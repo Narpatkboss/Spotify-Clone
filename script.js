@@ -11,9 +11,9 @@ let songitems = Array.from(document.getElementsByClassName('songitem'));
 
 
 let songs = [
-  { songname: "Peaches- Diljit Dosanjh", filePath: '1.mp3', coverPath: "1.jpg" },
-  { songname: "Lover- Diljit Dosanjh", filePath: '2.mp3', coverPath: "theme2.jpg" },
-  { songname: "Vibe- Diljit Dosanjh", filePath: '3.mp3', coverPath: "theme2.jpg" },
+  { songname: "Peaches- Diljit Dosanjh", filePath: "1.mp3", coverPath: "1.jpg" },
+  { songname: "Lover- Diljit Dosanjh", filePath: "2.mp3", coverPath: "theme2.jpg" },
+  { songname: "Vibe- Diljit Dosanjh", filePath: "3.mp3", coverPath: "theme2.jpg" },
   { songname: "Champagne- Diljit Dosanjh", filePath: "4.mp3", coverPath: "theme2.jpg" },
   { songname: "Ishq Di Baajiyaan", filePath: "5.mp3", coverPath: "5.jpg" },
   { songname: "Lemonade- Diljit Dosanjh", filePath: "6.mp3", coverPath: "6.jpg" },
