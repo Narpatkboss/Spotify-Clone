@@ -18,8 +18,6 @@ let songs = [
   { songname: "Ishq Di Baajiyaan", filePath: "5.mp3", coverPath: "5.jpg" },
   { songname: "Lemonade- Diljit Dosanjh", filePath: "6.mp3", coverPath: "6.jpg" },
   { songname: "Vanilla- Diljit Dosanjh", filePath: "7.mp3", coverPath: "7.jpg" },
-
-
   { songname: "Ikk kudi- Diljit Dosanjh", filePath: "8.mp3", coverPath: "ikk.jpg" },
   { songname: "Big Scene- Diljit Dosanjh", filePath: "9.mp3", coverPath: "big.webp" },
   { songname: "5-Taara- Diljit Dosanjh", filePath: "10.mp3", coverPath: "5taara.jpg" },
@@ -43,7 +41,6 @@ let songs = [
   { songname: "Lak 28 Kudi Da-Honey & Diljit Dosanjh", filePath: "28.mp3", coverPath: "lak.jpeg" },
   { songname: "Sauda Khara_khara-Good News", filePath: "29.mp3", coverPath: "sauda.jpeg" },
   { songname: "Proper Patola-  Namaste England", filePath: "30.mp3", coverPath: "proper.jpeg" },
-
   { songname: "Hass-Hass- Diljit Dosanjh", filePath: "31.mp3", coverPath: "Hass-Hass.jpg" },
   { songname: "Case- Diljit Dosanjh", filePath: "32.mp3", coverPath: "case.jpg" },
   { songname: "Love Ya- Diljit Dosanjh", filePath: "33.mp3", coverPath: "love ya.jpeg" },
